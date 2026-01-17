@@ -8,7 +8,6 @@ A powerful **PDF Table Comparison Application** built to compare tables extracte
 
 Shantanu Yadav
 B.Tech Computer Science Student
-National Computer Olympiad Gold Medalist
 
 ## 📜 License
 
@@ -100,7 +99,7 @@ This project is licensed under the MIT License.
 
 -Extremely inconsistent table structures may require manual review
 
-#END
+# END
 
 
 
