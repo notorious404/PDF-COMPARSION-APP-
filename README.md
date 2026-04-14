@@ -3,7 +3,7 @@
 A powerful **PDF Table Comparison Application** built to compare tables extracted from two PDF documents and highlight **differences, mismatches, and structural changes** in a clear and readable format.
 
 
-# ABOUT 
+# ABOUT
 ## 🧑‍💻 Author
 
 Shantanu Yadav
